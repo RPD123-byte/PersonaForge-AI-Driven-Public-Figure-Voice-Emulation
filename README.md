@@ -1,4 +1,4 @@
-# Persona-Creation-using-AI
+# Persona Creation using AI
 This repository gives you the entire pipeline for creating a fine-tuned AI model for any online personality you want. Whether it's a celebrity or a YouTuber. The Repository is split into 5 code files. 
 
 ## getdata.ipynb
